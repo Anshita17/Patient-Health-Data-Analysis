@@ -1,5 +1,5 @@
 # Patient-Health-Data-Analysis
-This data provides an analysis of hospital visit records of 51,000 patients, highlighting demographic trends, health conditions, medications, and other healthcare utilization patterns. It offers insights into patient distributions across genders, age groups, and medical conditions.
+This Project provides an analysis of hospital visit records of 51,000 patients, highlighting demographic trends, health conditions, medications, and other healthcare utilization patterns. It offers insights into patient distributions across genders, age groups, and medical conditions.
 # Dataset Overview
 Patient_ID: Unique identifier for each patient.  
 Age: Age of the patient in years (18-89).  

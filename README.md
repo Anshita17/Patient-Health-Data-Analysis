@@ -20,7 +20,6 @@ Physical_Activity_Level: The patient's physical activity level (Sedentary, Moder
 Python
 ## Data Collection and Cleaning :
 Pandas  
-Numpy  
 ## Visualization:
 Matplotlib   
 Seaborn

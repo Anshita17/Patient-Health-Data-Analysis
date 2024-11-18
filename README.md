@@ -62,5 +62,7 @@ Balanced across emergencies, routine check-ups, and follow-ups, reflecting compr
 * Leveraged Python to identify trends in asthma, hypertension, and diabetes across age groups and genders, highlighting gaps in preventive care and the impact of lifestyle factors.  
 * Analyzed prescription data using Pandas, uncovering relationships between medications like Statins, Metformin, and Lisinopril and their usage across medical conditions.  
 * Generated data-driven reports using Python to present findings on cardiovascular risks, BMI trends, and smoking prevalence, providing actionable insights to support healthcare decision-making.  
+* Tools Used: Leveraged Jupyter Notebook for interactive data analysis, visualization, and documentation, ensuring clear and comprehensive communication of findings.
+
 
 

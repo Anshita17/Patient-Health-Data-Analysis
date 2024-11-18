@@ -17,12 +17,12 @@ Smoker_Status: Whether the patient is a smoker (Yes/No).
 Physical_Activity_Level: The patient's physical activity level (Sedentary, Moderate, Active).  
 # Tools and Technologies
 ## Programming Language 
-Python
+* Python
 ## Data Collection and Cleaning :
-Pandas  
+* Pandas  
 ## Visualization:
-Matplotlib   
-Seaborn
+* Matplotlib   
+* Seaborn
 
 
 # Key Insights 
@@ -50,7 +50,17 @@ BMI: Median falls in the overweight range, highlighting the need for weight mana
 Lifestyle Risks: Smoking is prevalent across chronic conditions, amplifying health risks and emphasizing the need for cessation programs.  
 ## Healthcare Utilization:
 
-Balanced across emergencies, routine check-ups, and follow-ups, reflecting comprehensive resource allocation.  
+Balanced across emergencies, routine check-ups, and follow-ups, reflecting comprehensive resource allocation. 
 
+# Report 
+ [Click Here](https://github.com/Anshita17/Patient-Health-Data-Analysis/blob/main/Patient%20Health%20Data%20Analysis.pdf)
+
+ # Key Skills and Responsibilities
+
+ * Processed and explored hospital visit records of 51,000 patients using Python with Pandas, providing insights into gender parity, healthcare utilization patterns, and chronic condition prevalence.    
+* Created compelling visualizations with Seaborn and Matplotlib to depict demographic distributions, medication prescriptions, and condition-specific healthcare insights.  
+* Leveraged Python to identify trends in asthma, hypertension, and diabetes across age groups and genders, highlighting gaps in preventive care and the impact of lifestyle factors.  
+* Analyzed prescription data using Pandas, uncovering relationships between medications like Statins, Metformin, and Lisinopril and their usage across medical conditions.  
+* Generated data-driven reports using Python to present findings on cardiovascular risks, BMI trends, and smoking prevalence, providing actionable insights to support healthcare decision-making.  
 
 
